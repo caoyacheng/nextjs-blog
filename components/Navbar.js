@@ -59,7 +59,7 @@ const Navbar = () => {
                         <span className="font-serif">首页</span>
                     </Link>
                     <Link href="/blog" className="hover:scale-105 hover:font-semibold transition-transform duration-300">
-                        <span className="font-serif">博客</span>
+                        <span className="font-serif">学习</span>
                     </Link>
                     <Link href="/about" className="hover:scale-105 hover:font-semibold transition-transform duration-300">
                         <span className="font-serif">联系</span>
@@ -90,7 +90,7 @@ const Navbar = () => {
                                             <span className="font-serif">首页</span>
                                         </Link>
                                         <Link href="/blog">
-                                            <span className="font-serif">博客</span>
+                                            <span className="font-serif">学习</span>
                                         </Link>
                                         <Link href="/about">
                                             <span className="font-serif">联系</span>
