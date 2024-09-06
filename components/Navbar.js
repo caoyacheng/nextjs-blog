@@ -58,13 +58,10 @@ const Navbar = () => {
                     <Link href="/" className="hover:scale-105 hover:font-semibold transition-transform duration-300">
                         <span className="font-serif">首页</span>
                     </Link>
-                    <Link href="/about" className="hover:scale-105 hover:font-semibold transition-transform duration-300">
-                        <span className="font-serif">关于</span>
-                    </Link>
                     <Link href="/blog" className="hover:scale-105 hover:font-semibold transition-transform duration-300">
                         <span className="font-serif">博客</span>
                     </Link>
-                    <Link href="/contact" className="hover:scale-105 hover:font-semibold transition-transform duration-300">
+                    <Link href="/about" className="hover:scale-105 hover:font-semibold transition-transform duration-300">
                         <span className="font-serif">联系</span>
                     </Link>
                     <div className='flex items-center'>
@@ -92,13 +89,10 @@ const Navbar = () => {
                                         <Link href="/">
                                             <span className="font-serif">首页</span>
                                         </Link>
-                                        <Link href="/about">
-                                            <span className="font-serif">关于</span>
-                                        </Link>
                                         <Link href="/blog">
                                             <span className="font-serif">博客</span>
                                         </Link>
-                                        <Link href="/contact">
+                                        <Link href="/about">
                                             <span className="font-serif">联系</span>
                                         </Link>
                                     </div>
