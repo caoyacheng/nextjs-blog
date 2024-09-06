@@ -55,7 +55,7 @@ const Blog = () => {
   return (
     <div className="container mx-auto p-4">
       {/* Main heading for the blog section */}
-      <h1 className="text-4xl font-serif mb-8 text-center">AI知识及新闻</h1>
+      <h1 className="text-4xl font-serif mb-8 text-center">学习从这里开始！</h1>
 
       {/* Grid layout for blog posts */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
